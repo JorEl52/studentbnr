@@ -12,8 +12,8 @@ const double heightForm = 40;
 const double widthForm = 300;
 const double radiusGradient = 2.0;
 //Titulos y subtitulos, variables de texto intuitivas, finalizar con text
-const String emailText = 'Correo Electrónico';
-const String passwordText = 'Contraseña';
+const String emailText = 'Correo Electrónico:';
+const String passwordText = 'Contraseña:';
 const String titlePage = 'Iniciar Sesión';
 const String buttonStartText = 'Entrar';
 const String buttonRegisterText = 'Regístrate ahora';
